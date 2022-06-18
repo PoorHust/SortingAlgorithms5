@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 
 
 public class BaseSort {
-//123
+//123456
 	protected Element[] elements;
 	protected JPanel container;
 	protected boolean isIncrease;
